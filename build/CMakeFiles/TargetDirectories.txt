@@ -1,0 +1,4 @@
+/home/ritwick/wsv_robot/build/CMakeFiles/awscr_core.dir
+/home/ritwick/wsv_robot/build/CMakeFiles/pyawscr.dir
+/home/ritwick/wsv_robot/build/CMakeFiles/edit_cache.dir
+/home/ritwick/wsv_robot/build/CMakeFiles/rebuild_cache.dir

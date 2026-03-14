@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto=auto -shared  -o pyawscr.cpython-312-x86_64-linux-gnu.so CMakeFiles/pyawscr.dir/bindings/pyawscr.cpp.o  libawscr_core.a 
